@@ -84,13 +84,13 @@ These metrics reveal how well the model performs on each gesture individually.
 ## Interpretation of Results
 
 ### Rock  
-High precision and recall — the model identifies rock confidently and consistently.
+High precision and recall - the model identifies rock confidently and consistently.
 
 ### Paper  
-High precision but lower recall — the model is cautious and misses some real paper samples.
+High precision but lower recall - the model is cautious and misses some real paper samples.
 
 ### Scissors  
-Perfect recall but lower precision — the model catches all scissors images but overpredicts scissors on some rock/paper images.
+Perfect recall but lower precision - the model catches all scissors images but overpredicts scissors on some rock/paper images.
 
 This pattern is typical for hand‑gesture datasets where scissors has high shape variability.
 
