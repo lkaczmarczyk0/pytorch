@@ -68,15 +68,15 @@ These metrics reveal how well the model performs on each gesture individually.
 ### **Per‑Class Precision**
 | Class     | Precision |
 |-----------|-----------|
-| paper     | 0.89 |
-| rock      | 0.98 |
-| scissors  | 0.74 |
+| paper     | 0.87 |
+| rock      | 1.00 |
+| scissors  | 0.76 |
 
 ### **Per‑Class Recall**
 | Class     | Recall |
 |-----------|--------|
-| paper     | 0.72 |
-| rock      | 0.82 |
+| paper     | 0.79 |
+| rock      | 0.76 |
 | scissors  | 1.00 |
 
 ---
